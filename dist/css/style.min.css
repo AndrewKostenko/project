@@ -2591,7 +2591,7 @@ table .borderb {
   display: block;
   font-size: 105px;
   color: white;
-  opacity: 0.6;
+  opacity: 0.15;
   text-shadow: -1px -1px 0px #111D48, 0px -1px 0px #111D48, 1px -1px 0px #111D48, -1px 0px 0px #111D48, 1px 0px 0px #111D48, -1px 1px 0px #111D48, 0px 1px 0px #111D48, 1px 1px 0px #111D48;
 }
 @media (max-width: 1023px) {
@@ -2603,7 +2603,7 @@ table .borderb {
 @media (max-width: 767px) {
   .aboutus__title-back {
     font-size: 70px;
-    opacity: 0.3;
+    opacity: 0.1;
   }
 }
 @media (max-width: 500px) {
